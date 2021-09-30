@@ -1,0 +1,4 @@
+FROM maildev/maildev
+
+EXPOSE 1080:80
+EXPOSE 1025:25
