@@ -4,7 +4,18 @@ MailDev is a simple way to test your project's generated emails during developme
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fmittalyashu%2Frailway-maildev&envs=PORT&PORTDefault=80&referralCode=mittalyashu)
 
-### Links
+## ✨ Features
 
+- Local mail inbox
+- Zero-config deploy
+
+## 💁‍♀️ How to use
+
+- Click the Railway button 👆
+- Deploy
+
+## 🔗 Links
+
+* Docs: http://maildev.github.io/maildev
 * GitHub: https://github.com/maildev/maildev
 * Docker: https://hub.docker.com/r/maildev/maildev
